@@ -40,10 +40,6 @@ Sistema Full Stack completo con:
 - LinkedIn: https://www.linkedin.com/in/ivanperezrebollodev/
 - 📍 Huelva, España
 
-### GitHub Stats
-
-![Iván's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPrzDev&show_icons=true&theme=dark)
-
 ---
 
 💡 **Actualmente:** Buscando oportunidades como Backend Developer
