@@ -1,3 +1,5 @@
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 # 👋 Hola, soy Iván Pérez
 
 ## Backend Developer
