@@ -14,11 +14,11 @@ Desarrollador Backend especializado en **Node.js** y **NestJS** con pasión por 
 ### Tech Stack
 
 - **Backend:** Node.js, NestJS, Express
-- **Bases de Datos:** MongoDB, Mongoose
-- **DevOps:** Docker, Docker Compose
+- **Bases de Datos:** MongoDB, PostgreSQL
+- **DevOps:** Docker, Railway (deploy)
 - **Frontend:** React, TypeScript, Tailwind CSS
 - **Testing:** Jest
-- **Tools:** Git, Swagger, Postman
+- **Tools:** Git, Swagger, Postman, mongocompass
 
 ### Proyecto Destacado
 
