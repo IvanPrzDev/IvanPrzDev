@@ -22,7 +22,7 @@ Desarrollador Backend especializado en **Node.js** y **NestJS** con pasión por 
 
 ### Proyecto Destacado
 
-#### 📚 [LibroYa - Sistema de Gestión de Biblioteca](https://github.com/IvanPrzDev/libroya-admin-hub)
+#### 📚 [LibroYa - Sistema de Gestión de Biblioteca](https://github.com/IvanPrzDev/libroya-user-hub)
 
 Sistema Full Stack completo con:
 - Autenticación JWT con roles
